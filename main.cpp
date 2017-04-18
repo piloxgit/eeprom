@@ -9,7 +9,7 @@
 *****************************************
  Zapojeni
 
-EEPROM 24c01            Arduino
+EEPROM 24c01            Arduino NANO
 1(GND)                  GND
 2(GND)                  GND
 3(GND)                  GND
