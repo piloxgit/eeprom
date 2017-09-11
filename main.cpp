@@ -1,6 +1,6 @@
 //
 // Created by pilox on 18.4.17.
-//
+//Práce s pamětí
 
 /*
  *
